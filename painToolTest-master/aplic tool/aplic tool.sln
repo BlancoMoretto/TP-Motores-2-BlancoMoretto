@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BAD1A248-8D31-4714-4062-E927FC0F0BD8}") = "aplic tool", "Assembly-CSharp.csproj", "{2B543280-1D10-13FB-9317-F2F3092E7152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B543280-1D10-13FB-9317-F2F3092E7152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B543280-1D10-13FB-9317-F2F3092E7152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B543280-1D10-13FB-9317-F2F3092E7152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B543280-1D10-13FB-9317-F2F3092E7152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
